@@ -1,13 +1,26 @@
 .croce {
     background-image: url("croce.png");
     background-size: cover;
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
 }
 
 .testa {
     background-image: url("testa.png");
     background-size: cover;
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#numero {
+    font-size: 30px;
+    color:red;
+    font-weight: 600;
 }
