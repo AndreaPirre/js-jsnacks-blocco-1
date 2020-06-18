@@ -1,0 +1,13 @@
+.croce {
+    background-image: url("croce.png");
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+
+.testa {
+    background-image: url("testa.png");
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
